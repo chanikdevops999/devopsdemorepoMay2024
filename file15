@@ -1,6 +1,7 @@
 this is file 15
 needed for poc
 this only authorized persons only
+<<<<<<< HEAD
 
 123456789
 
@@ -11,3 +12,5 @@ SAN
 SNA
 
 a1b2c3d4e5f6
+=======
+>>>>>>> parent of 5eb0ded (testiung reset modified)
